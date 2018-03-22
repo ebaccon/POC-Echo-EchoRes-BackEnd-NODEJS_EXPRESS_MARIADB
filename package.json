@@ -1,0 +1,22 @@
+{
+  "name": "poc-echo-echores-backend-nodejs_express_mariadb",
+  "version": "0.0.0",
+  "description": "Echo'Res project : It's just my simple application for testing basing code | BackEnd and DB part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebaccon/POC-Echo-EchoRes-BackEnd-NODEJS_EXPRESS_MARIADB.git"
+  },
+  "author": "Echo",
+  "license": "SEE LICENSE IN <LICENCE>",
+  "bugs": {
+    "url": "https://github.com/ebaccon/POC-Echo-EchoRes-BackEnd-NODEJS_EXPRESS_MARIADB/issues"
+  },
+  "homepage": "https://github.com/ebaccon/POC-Echo-EchoRes-BackEnd-NODEJS_EXPRESS_MARIADB#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
